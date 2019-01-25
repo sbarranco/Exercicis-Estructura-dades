@@ -1,1 +1,2 @@
-# Exercicis-Estructura-dades
+# Exercicis Estructura dades
+## MySQL Workbench exercice
